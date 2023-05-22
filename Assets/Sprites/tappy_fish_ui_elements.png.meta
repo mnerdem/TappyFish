@@ -1,0 +1,697 @@
+fileFormatVersion: 2
+guid: 9bfdda996acf509409378aea64462724
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: obsticle
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1510
+        width: 1064
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0b56c09e8ee284a87c3b2c09d99daf
+      internalID: 1748645080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-3
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 1502
+        width: 285
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4205b7e8ac1968c4387319f0a72bcbf6
+      internalID: -1056754501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 514
+        width: 695
+        height: 1226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1744903af5f87144a4f12da8d224bf8
+      internalID: -745365276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-medal
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1233
+        width: 231
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4d3e21d720fce4db29b1dfe030f91b
+      internalID: 362931009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-medal
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1233
+        width: 237
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a1f3cec0849204c9106e4d54d80dc4
+      internalID: -980593281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-2
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 1230
+        width: 285
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8975b8ada4e485d4d9722d90fd62d3a7
+      internalID: 1597477812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-1
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 943
+        width: 285
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4fcd73b55fa8f4a9af95724067574c
+      internalID: -1493338222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silver-medal
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 913
+        width: 230
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24480229049a33e4595833f8e2be365c
+      internalID: 977325493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-medal
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 915
+        width: 230
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca688daf3f830484db909787ec5f53e7
+      internalID: -435395864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tap-panel
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 876
+        width: 634
+        height: 615
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74696c496e220645be7aa2ac429b729
+      internalID: -1645405193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreboard
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 470
+        width: 720
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76eab22fc7a3b2f40a67a195e8ea1b59
+      internalID: 1113786097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: restart
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 733
+        width: 189
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa790515fe55fc449e870e6139d464f
+      internalID: 1641513099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 581
+        width: 195
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaa6c111ed037746b044ec388c7daf0
+      internalID: 719498821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 80
+        width: 1031
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a816153d53d659b4eb18b62f9e3867cd
+      internalID: 1671634456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tappy-fish
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 354
+        width: 524
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f307753164eec64ba02c092ef64f4b8
+      internalID: 303402186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: getready
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 214
+        width: 497
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98f2c6b941de9248a01391245b5e52a
+      internalID: -1598326943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 71
+        width: 498
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220cf898bc5bca94f94be38ba7481684
+      internalID: 1391961920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      background: -745365276
+      bronze-medal: 362931009
+      fish-1: -1493338222
+      fish-2: 1597477812
+      fish-3: -1056754501
+      gameover: 1391961920
+      getready: -1598326943
+      gold-medal: -980593281
+      ground: 1671634456
+      iron-medal: -435395864
+      new: 719498821
+      obsticle: 1748645080
+      restart: 1641513099
+      scoreboard: 1113786097
+      silver-medal: 977325493
+      tap-panel: -1645405193
+      tappy-fish: 303402186
+      tappy_fish_ui_elements_0: -826982974
+      tappy_fish_ui_elements_1: -1427794092
+      tappy_fish_ui_elements_10: -2146357112
+      tappy_fish_ui_elements_100: 25628934
+      tappy_fish_ui_elements_101: -237987695
+      tappy_fish_ui_elements_102: -211057166
+      tappy_fish_ui_elements_103: -1177681590
+      tappy_fish_ui_elements_104: -1883771823
+      tappy_fish_ui_elements_105: -450228571
+      tappy_fish_ui_elements_106: -1562939951
+      tappy_fish_ui_elements_107: 1709967106
+      tappy_fish_ui_elements_108: -59082014
+      tappy_fish_ui_elements_109: 872843821
+      tappy_fish_ui_elements_11: 939071257
+      tappy_fish_ui_elements_110: -1599135620
+      tappy_fish_ui_elements_111: 205686072
+      tappy_fish_ui_elements_112: -1015366826
+      tappy_fish_ui_elements_113: 1130300456
+      tappy_fish_ui_elements_115: -937549494
+      tappy_fish_ui_elements_116: -486200077
+      tappy_fish_ui_elements_117: 1327384968
+      tappy_fish_ui_elements_118: 491895546
+      tappy_fish_ui_elements_119: -80768019
+      tappy_fish_ui_elements_12: -1104349196
+      tappy_fish_ui_elements_120: 321197274
+      tappy_fish_ui_elements_121: -1303278294
+      tappy_fish_ui_elements_122: -1529709213
+      tappy_fish_ui_elements_123: 1096005535
+      tappy_fish_ui_elements_124: 1574125722
+      tappy_fish_ui_elements_125: -102046164
+      tappy_fish_ui_elements_126: -839439492
+      tappy_fish_ui_elements_127: 2067907989
+      tappy_fish_ui_elements_128: -788223572
+      tappy_fish_ui_elements_129: 1317601665
+      tappy_fish_ui_elements_13: -1094012475
+      tappy_fish_ui_elements_130: -236394805
+      tappy_fish_ui_elements_131: 833336025
+      tappy_fish_ui_elements_132: -1044681996
+      tappy_fish_ui_elements_133: 1550625275
+      tappy_fish_ui_elements_134: -1679669056
+      tappy_fish_ui_elements_135: 852487352
+      tappy_fish_ui_elements_136: 1047320814
+      tappy_fish_ui_elements_137: -22451884
+      tappy_fish_ui_elements_138: -1766336257
+      tappy_fish_ui_elements_139: -1680024507
+      tappy_fish_ui_elements_14: 988592116
+      tappy_fish_ui_elements_140: 1785457233
+      tappy_fish_ui_elements_141: -1740438350
+      tappy_fish_ui_elements_142: 395836823
+      tappy_fish_ui_elements_143: 318416329
+      tappy_fish_ui_elements_144: -1405090654
+      tappy_fish_ui_elements_147: 1423535873
+      tappy_fish_ui_elements_148: 549961461
+      tappy_fish_ui_elements_149: -1419371986
+      tappy_fish_ui_elements_15: -1647711614
+      tappy_fish_ui_elements_150: -610028286
+      tappy_fish_ui_elements_151: 1198101388
+      tappy_fish_ui_elements_152: 2055169363
+      tappy_fish_ui_elements_154: 478665996
+      tappy_fish_ui_elements_155: 898131565
+      tappy_fish_ui_elements_156: 131781225
+      tappy_fish_ui_elements_157: -991747305
+      tappy_fish_ui_elements_158: -2006741554
+      tappy_fish_ui_elements_159: 1884717600
+      tappy_fish_ui_elements_16: -1604258823
+      tappy_fish_ui_elements_160: -981101953
+      tappy_fish_ui_elements_161: 333694373
+      tappy_fish_ui_elements_162: -1987172296
+      tappy_fish_ui_elements_163: 1520836269
+      tappy_fish_ui_elements_164: -1997450427
+      tappy_fish_ui_elements_165: 1147160287
+      tappy_fish_ui_elements_166: 1295065317
+      tappy_fish_ui_elements_167: -1199974324
+      tappy_fish_ui_elements_168: 1159927169
+      tappy_fish_ui_elements_169: -1066900854
+      tappy_fish_ui_elements_17: -1431670707
+      tappy_fish_ui_elements_170: 1386298517
+      tappy_fish_ui_elements_171: -2078439706
+      tappy_fish_ui_elements_172: -556211498
+      tappy_fish_ui_elements_174: -114945586
+      tappy_fish_ui_elements_176: -283407772
+      tappy_fish_ui_elements_177: 849495116
+      tappy_fish_ui_elements_178: 110173552
+      tappy_fish_ui_elements_179: 611223847
+      tappy_fish_ui_elements_18: 873780443
+      tappy_fish_ui_elements_180: -724315946
+      tappy_fish_ui_elements_181: -547624274
+      tappy_fish_ui_elements_182: 1537081128
+      tappy_fish_ui_elements_183: 1479414503
+      tappy_fish_ui_elements_184: 1097059223
+      tappy_fish_ui_elements_185: 595981933
+      tappy_fish_ui_elements_186: 301874032
+      tappy_fish_ui_elements_187: 502573693
+      tappy_fish_ui_elements_188: -2125205226
+      tappy_fish_ui_elements_19: -314601634
+      tappy_fish_ui_elements_191: -60880262
+      tappy_fish_ui_elements_2: -979477563
+      tappy_fish_ui_elements_20: -616386285
+      tappy_fish_ui_elements_21: 1966041152
+      tappy_fish_ui_elements_22: -206339417
+      tappy_fish_ui_elements_23: -1874154874
+      tappy_fish_ui_elements_24: -1045972518
+      tappy_fish_ui_elements_25: -612035947
+      tappy_fish_ui_elements_26: 1272297844
+      tappy_fish_ui_elements_27: 1983612965
+      tappy_fish_ui_elements_28: -97341149
+      tappy_fish_ui_elements_29: -670460873
+      tappy_fish_ui_elements_3: 221940283
+      tappy_fish_ui_elements_30: 1461594295
+      tappy_fish_ui_elements_31: -138296595
+      tappy_fish_ui_elements_32: -1853024138
+      tappy_fish_ui_elements_34: 25735533
+      tappy_fish_ui_elements_35: -1235041917
+      tappy_fish_ui_elements_36: -606158786
+      tappy_fish_ui_elements_37: 428975390
+      tappy_fish_ui_elements_38: 1412873281
+      tappy_fish_ui_elements_39: 1366269452
+      tappy_fish_ui_elements_41: 119061276
+      tappy_fish_ui_elements_42: 866779665
+      tappy_fish_ui_elements_43: 425049232
+      tappy_fish_ui_elements_44: 1918433682
+      tappy_fish_ui_elements_45: -2034142888
+      tappy_fish_ui_elements_46: 1088048309
+      tappy_fish_ui_elements_47: 1239682632
+      tappy_fish_ui_elements_48: 118425566
+      tappy_fish_ui_elements_49: -205056974
+      tappy_fish_ui_elements_5: 595570551
+      tappy_fish_ui_elements_50: 1708443736
+      tappy_fish_ui_elements_51: 1384538337
+      tappy_fish_ui_elements_52: -1068823385
+      tappy_fish_ui_elements_53: 1843502958
+      tappy_fish_ui_elements_54: -490484278
+      tappy_fish_ui_elements_55: 2081123215
+      tappy_fish_ui_elements_56: -1927972560
+      tappy_fish_ui_elements_57: 840917356
+      tappy_fish_ui_elements_58: 879312656
+      tappy_fish_ui_elements_59: -655307328
+      tappy_fish_ui_elements_60: 196262576
+      tappy_fish_ui_elements_61: 1708869469
+      tappy_fish_ui_elements_62: -1836406753
+      tappy_fish_ui_elements_63: -1663779562
+      tappy_fish_ui_elements_64: -1744818439
+      tappy_fish_ui_elements_65: 2061605488
+      tappy_fish_ui_elements_66: 1893968335
+      tappy_fish_ui_elements_67: -987324843
+      tappy_fish_ui_elements_68: -325170397
+      tappy_fish_ui_elements_69: -63442072
+      tappy_fish_ui_elements_7: -1609185811
+      tappy_fish_ui_elements_70: -1563321868
+      tappy_fish_ui_elements_71: 1890251228
+      tappy_fish_ui_elements_72: -911246648
+      tappy_fish_ui_elements_73: -543071756
+      tappy_fish_ui_elements_74: 1715110342
+      tappy_fish_ui_elements_75: 1766291548
+      tappy_fish_ui_elements_76: -618385899
+      tappy_fish_ui_elements_77: -258072295
+      tappy_fish_ui_elements_78: -1557507489
+      tappy_fish_ui_elements_79: -1971393887
+      tappy_fish_ui_elements_81: -522427311
+      tappy_fish_ui_elements_82: -1760202276
+      tappy_fish_ui_elements_83: -1488736736
+      tappy_fish_ui_elements_84: 1372475118
+      tappy_fish_ui_elements_86: -1696252602
+      tappy_fish_ui_elements_87: -509116426
+      tappy_fish_ui_elements_89: -963094028
+      tappy_fish_ui_elements_9: -175116930
+      tappy_fish_ui_elements_90: 2075062135
+      tappy_fish_ui_elements_91: -2011762288
+      tappy_fish_ui_elements_92: -449573966
+      tappy_fish_ui_elements_93: 1044306195
+      tappy_fish_ui_elements_94: -525403333
+      tappy_fish_ui_elements_95: 534971442
+      tappy_fish_ui_elements_96: 1435232819
+      tappy_fish_ui_elements_97: -1919477469
+      tappy_fish_ui_elements_98: -1299595117
+      tappy_fish_ui_elements_99: 54158015
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
