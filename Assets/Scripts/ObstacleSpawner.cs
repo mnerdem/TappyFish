@@ -13,9 +13,9 @@ public class ObstacleSpawner : MonoBehaviour
 
     public void InstantiateObstacle()
     {
-
+        randomY = Random.Range(minY, maxY);
         GameObject newObstacle = Instantiate(obstacle);
-        newObstacle.transform.position = new Vector2(transform.position.x, transform.position.y);
+        newObstacle.transform.position = new Vector2(transform.position.x, randomY);
 
     }
     // Start is called before the first frame update
@@ -35,4 +35,5 @@ public class ObstacleSpawner : MonoBehaviour
             timer = 0;
         }
     }
+
 }
