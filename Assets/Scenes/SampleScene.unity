@@ -283,6 +283,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 9
   score: {fileID: 963118682}
+  gameManager: {fileID: 1023137526}
+  fishDied: {fileID: -1493338222, guid: 9bfdda996acf509409378aea64462724, type: 3}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -1144,7 +1146,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1904682530}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 10.31006, y: -8.42, z: 0}
+  m_LocalPosition: {x: 11.27, y: -8.42, z: 0}
   m_LocalScale: {x: 1.12, y: 1.12, z: 1.12}
   m_ConstrainProportionsScale: 1
   m_Children: []
